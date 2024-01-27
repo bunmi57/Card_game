@@ -13,7 +13,7 @@ Each player takes an additional set of 5 cards.
 Then each player pulls out one card, The owner of the higher face-up card wins the war and adds all the cards on the table to the bottom of their deck.
 If the face-up cards are again equal then the battle repeats with another set of face-down/up cards. This repeats until one player's face-up card is higher than their opponent's
 
-The cycle repeats untill a play has all the cards and wins.
+The cycle repeats until a play has all the cards and wins.
 
 ##########################################################################
 The 'war' process can be repeated in this case of back to back ties
