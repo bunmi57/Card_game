@@ -1,5 +1,7 @@
 import random
+
 from card_game import card
+
 
 '''
 Deck class

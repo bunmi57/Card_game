@@ -41,7 +41,7 @@ class Player:
     def __str__(self):
         return f'Player {self.name} has {len(self.all_cards)} cards.'
 
-
+'''
 new_player = Player('Bunmi')
 print(new_player) # Player Bunmi has 0 cards
 new_deck = Deck()
@@ -54,3 +54,4 @@ new_player.add_cards([mycard,mycard,mycard, mycard])
 print(new_player)
 new_player.remove_one()
 print(new_player)
+'''
